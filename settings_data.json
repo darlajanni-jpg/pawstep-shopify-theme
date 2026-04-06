@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "pawstep-hero",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}

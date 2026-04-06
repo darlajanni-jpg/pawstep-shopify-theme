@@ -1,0 +1,12 @@
+{{ content_for_layout }}
+
+<style>
+  body { font-family: 'DM Sans', sans-serif; background: #FAF6F0; color: #2C1A0E; text-align: center; padding: 120px 24px; }
+  h1 { font-family: Georgia, serif; font-size: 3rem; margin-bottom: 16px; }
+  p { color: rgba(44,26,14,0.6); margin-bottom: 32px; }
+  a { background: #2C1A0E; color: #FAF6F0; padding: 14px 32px; border-radius: 40px; text-decoration: none; font-size: 0.9rem; }
+</style>
+
+<h1>🐾 Lost Your Trail?</h1>
+<p>This page doesn't exist — but your next adventure does.</p>
+<a href="/">Back to PawStep</a>
